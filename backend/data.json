@@ -1,0 +1,388 @@
+{
+  "users": {
+    "alice": {
+      "password": "secret",
+      "created_at": "2025-11-14T05:34:49.767995"
+    },
+    "venu": {
+      "password": "venu",
+      "created_at": "2025-11-14T06:25:49.312661"
+    },
+    "admin": {
+      "password": "$2b$12$wora9YcnuOwir1eoQG2TCeN2HoC2qePMMdmy0iMi4DNSb7.Gb5pHm",
+      "created_at": "2025-11-14T07:20:38.988538"
+    },
+    "tester": {
+      "password": "$2b$12$I3GlQ3yI/ITByNMOIFjpJuw03Qm.tOo5jpPqdyCWjNVngBlLtZBQ6",
+      "created_at": "2025-11-14T07:29:34.966857"
+    }
+  },
+  "presentations": {
+    "81cc7e1d-b174-4ef3-ae71-554667b1dae6": {
+      "id": "81cc7e1d-b174-4ef3-ae71-554667b1dae6",
+      "owner": "venu",
+      "title": "Artificial Intelligence",
+      "slides": [
+        {
+          "id": "fa2434b6-ba58-4a0d-8a5d-ed06b2ae24cf",
+          "title": "Artificial Intelligence - Slide 1",
+          "content": "give me the in depth details of Artificial intelligence",
+          "image": null,
+          "notes": ""
+        },
+        {
+          "id": "dca4b668-dbd4-4488-b9af-d94cdb60752e",
+          "title": "Artificial Intelligence - Slide 2",
+          "content": "Auto point for slide 2",
+          "image": null,
+          "notes": ""
+        },
+        {
+          "id": "9c3e0e64-e786-480e-92f2-f75897ef3ed0",
+          "title": "Artificial Intelligence - Slide 3",
+          "content": "Auto point for slide 3",
+          "image": null,
+          "notes": ""
+        },
+        {
+          "id": "3212c7e4-1fe1-49e7-8afb-024e3c4412e4",
+          "title": "Artificial Intelligence - Slide 4",
+          "content": "Auto point for slide 4",
+          "image": null,
+          "notes": ""
+        }
+      ],
+      "created_at": "2025-11-14T06:30:50.014917"
+    },
+    "426b21aa-3a9f-4259-85b8-e859ee0e2aa5": {
+      "id": "426b21aa-3a9f-4259-85b8-e859ee0e2aa5",
+      "owner": "admin",
+      "title": "Artificial Intelligence",
+      "slides": [
+        {
+          "id": "78bee4e1-5ac1-49fb-ae19-f256748b422c",
+          "title": "Artificial Intelligence - Part 1",
+          "content": "give me in depth details",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "585e7721-de72-4270-820e-b8d67e396926",
+          "title": "Artificial Intelligence - Part 2",
+          "content": "give me in depth details",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "fba3a5b6-392c-437b-9a6b-cc211af7b39f",
+          "title": "Artificial Intelligence - Part 3",
+          "content": "give me in depth details",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "4ba55433-b131-4320-9f72-d37e5e9b909a",
+          "title": "Artificial Intelligence - Part 4",
+          "content": "give me in depth details",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "717b60cd-a0fe-4d84-aef0-2443b8550365",
+          "title": "Artificial Intelligence - Part 5",
+          "content": "give me in depth details",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        }
+      ],
+      "created_at": "2025-11-14T07:21:08.280452",
+      "updated_at": "2025-11-14T07:21:08.280485"
+    },
+    "19267156-497c-4117-a510-ec2eca5bb269": {
+      "id": "19267156-497c-4117-a510-ec2eca5bb269",
+      "owner": "tester",
+      "title": "Test Pres",
+      "slides": [
+        {
+          "id": "bd6646ba-84dd-48db-926a-e7ae93f7fa57",
+          "title": "Test Pres - Part 1",
+          "content": "What are the key benefits of AI-powered automation in enterprise teams? Analyze deeply.",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "95beb5d1-5b4f-43af-aeb5-d58b854dc5e2",
+          "title": "Test Pres - Part 2",
+          "content": "Problem statement",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "3999b657-41d3-48b6-8c70-10dd7856b878",
+          "title": "Test Pres - Part 3",
+          "content": "Solution approach",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "c4425244-3593-4e2e-bde5-ec6e9a73e497",
+          "title": "Test Pres - Part 4",
+          "content": "Market fit",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        }
+      ],
+      "created_at": "2025-11-14T07:30:01.982612",
+      "updated_at": "2025-11-14T08:20:32.591485"
+    },
+    "9d1d6aea-8351-40e0-b584-7231be508329": {
+      "id": "9d1d6aea-8351-40e0-b584-7231be508329",
+      "owner": "admin",
+      "title": "AI",
+      "slides": [
+        {
+          "id": "43a777bd-e983-45a5-9eb2-6bad395110b3",
+          "title": "AI - Part 1",
+          "content": "AI",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "7c33661f-4eff-412b-9f12-60265c5a0b05",
+          "title": "AI - Part 2",
+          "content": "AI",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "1315bb00-96b3-4cb9-a1f6-9e046e17c0e7",
+          "title": "AI - Part 3",
+          "content": "AI",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "e85a01c1-3ca4-4aa3-a092-0ae6c8594506",
+          "title": "AI - Part 4",
+          "content": "AI",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "508c65ce-dd1f-4f24-b738-87b8b5f3d98f",
+          "title": "AI - Part 5",
+          "content": "AI",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        }
+      ],
+      "created_at": "2025-11-14T07:54:40.988964",
+      "updated_at": "2025-11-14T07:54:40.988983"
+    },
+    "4fd3c76c-3e4f-4178-9601-4129bcf4887d": {
+      "id": "4fd3c76c-3e4f-4178-9601-4129bcf4887d",
+      "owner": "tester",
+      "title": "Product Roadmap",
+      "slides": [
+        {
+          "id": "9777c1fe-d599-4da3-a6af-60a4f4c27eb2",
+          "title": "Product Roadmap - Slide 1",
+          "content": "Content to be filled",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "098bb0cc-51a0-4d3e-a66b-223557b396ca",
+          "title": "Product Roadmap - Slide 2",
+          "content": "Content to be filled",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "769d05d3-e1d2-4e0d-a9a2-f73fd7f5a613",
+          "title": "Product Roadmap - Slide 3",
+          "content": "Content to be filled",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        }
+      ],
+      "created_at": "2025-11-14T08:18:45.643633",
+      "updated_at": "2025-11-14T08:18:45.643661"
+    },
+    "5e2b4f3b-b7bf-4466-a072-db8454eb5136": {
+      "id": "5e2b4f3b-b7bf-4466-a072-db8454eb5136",
+      "owner": "tester",
+      "title": "Remote Work Strategy",
+      "slides": [
+        {
+          "id": "c6717f89-4e71-4b30-9b25-6d1189f7176b",
+          "title": "Remote Work Strategy - Slide 1",
+          "content": "Content to be filled",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        },
+        {
+          "id": "a53d10b7-aadd-4e25-accb-dee68749beab",
+          "title": "Remote Work Strategy - Slide 2",
+          "content": "Content to be filled",
+          "image": null,
+          "style": {
+            "titleFontSize": 32,
+            "contentFontSize": 18,
+            "fontColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "backgroundImage": null,
+            "backgroundOpacity": 100,
+            "backgroundBlur": 0
+          }
+        }
+      ],
+      "created_at": "2025-11-14T08:20:50.448317",
+      "updated_at": "2025-11-14T08:20:50.448337"
+    }
+  }
+}
